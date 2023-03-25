@@ -75,7 +75,7 @@ global.REMOVE_BG_API = ''
 //👇 Pron Video Download 
 global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'true'
 //👇 Change Bot Language (English-' EN ', Sinhala , ' SI ' , Tamil - ' TL ')
-global.LANG = 'EN'
+global.LANG = 'SI'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://te.legra.ph/file/3e57249993356ba15109f.jpg`
 //👇 Alive message
